@@ -16,7 +16,7 @@ Pretty basic. But here is where it gets interesting...
   - Once the expiration date has passed, quality score degrades twice as fast
 
   - The quality of an award is never negative.
-  
+
   - "Blue First" awards actually increase in quality the older they get
 
   - The quality of an award is never more than 50
@@ -92,4 +92,3 @@ To test your work, run pytest:
 ## Finishing Up
 
 - Please fork the repo and push your completed code to a public github repository.
-
